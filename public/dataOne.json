@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Props vs state",
+    "answer": "Pros is short form of properties. Props are read only and unidirectional. Child can't change value of props and it can't send back to it's parent component. State manage data, they take those data which are changeable."
+  },
+  {
+    "id": 2,
+    "question": "How does useState work?",
+    "answer": "useState is a hook which developers use in React. First it take an initial value and an argument. It return updated value when we call the function. In summary, we can say to take a value which is changing continuously we use useState."
+  },
+  {
+    "id": 3,
+    "question": "Purpose of useEffect other than fetching data.",
+    "answer": "We can use useEffect to perform an effect depending on particular value. For example, we want to update a component depending on changing value of 'x'. In that case we write component inside useEffect and give x as an second argument in useEffect. Without data loading we can use as validating input, updating component."
+  },
+  {
+    "id": 4,
+    "question": "How does React work?",
+    "answer": "It's actually a library of JavaScript. It create virtual DOM. to create UI components efficiently. Normally, React always re-render the virtual DOM when react found a state or properties is changed. Then react compare between old and new virtual DOM and also find out number of changes. Finally it make those changes on actual DOM. This process is known as reconciliation."
+  }
+]

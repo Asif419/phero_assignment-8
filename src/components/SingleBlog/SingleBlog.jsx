@@ -5,12 +5,11 @@ import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 import { ToastContainer, toast } from 'react-toastify';
 
 const SingleBlog = ({ blog, handlerReadTime, handlerBookmarks, blogTitles }) => {
-  const { author_name, blog_title, blog_image, author_image, read_time, published_date } = blog;
-
+  const { id, author_name, blog_title, blog_image, author_image, read_time, tags, published_date } = blog;
   const notify = (blog_title) => {
     let flag = false;
-    for(const title of blogTitles) {
-      if (title === blog_title && !flag){
+    for (const title of blogTitles) {
+      if (title === blog_title && !flag) {
         toast("You have already added this blog once!");
         flag = true;
       }
@@ -50,6 +49,15 @@ const SingleBlog = ({ blog, handlerReadTime, handlerBookmarks, blogTitles }) => 
           </div>
           <h5 className="card-title fs-2 fw-bold my-3">{blog_title}</h5>
           {/* <p className="card-text">#beginner</p> */}
+          <div className='tags'>
+            {
+              tags.map((tag, index) => {
+                return (
+                  <small key={index} className="text-body-secondary"><span>#{tag} </span></small>
+                );
+              })
+            }
+          </div>
           <div className='my-3' >
             <a onClick={() => handlerReadTime(read_time)} href="#">Mark as read</a>
           </div>

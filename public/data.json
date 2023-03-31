@@ -2,55 +2,61 @@
   {
     "id": "6425d9f1957d52634791b4b8",
     "author_name": "Robert Cecil Martin",
-    "blog_title": "Clean Code",
+    "blog_title": "Clean Code : advocates an aproach to fighting spam",
     "blog_image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80",
     "author_image": "https://images.unsplash.com/photo-1542190891-2093d38760f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "read_time": 5,
+    "tags": ["programming", "algorithms"],
     "published_date": "July, 2008 (13 years ago)"
   },
   {
     "id": "6425d7f40e00c28237e8ca05",
     "author_name": "Steve McConnell",
-    "blog_title": "Code Complete",
+    "blog_title": "Code Complete : umping the Licensing Shark",
     "blog_image": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
     "author_image": "https://images.unsplash.com/photo-1665686304355-0b09b1e3b03c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "read_time": 7,
+    "tags": ["dataStructure", "Networking"],
     "published_date": "February, 1993 (30 years ago)"
   },
   {
     "id": "6425d7f49e9839c451f0047e",
     "author_name": "Ronald Rivest",
-    "blog_title": "Introduction to Algorithms",
+    "blog_title": "Introduction to Algorithms : Attention is Turing Complete",
     "blog_image": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "author_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "read_time": 15,
+    "tags": ["algorithms", "dataStructure"],
     "published_date": "June, 1989 (44 years ago)"
   },
   {
     "id": "6425d7f4d80c3de69bea56a5",
     "author_name": "Dave Thomas",
-    "blog_title": "The Pragmatic Programmer",
+    "blog_title": "The Pragmatic Programmer : Parable of the Two Watchmakers",
     "blog_image": "https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "author_image": "https://plus.unsplash.com/premium_photo-1672855928516-685635b4c8ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "read_time": 3,
+    "tags": ["programming", "dataStructure"],
     "published_date": "November, 1999 (34 years ago)"
   },
   {
     "id": "6425d7f468852e4628346b04",
     "author_name": "Jon Bentley",
-    "blog_title": "Programming Pearls",
+    "blog_title": "Programming Pearls : Neurotech’s Battles Impact Our Brains’ Future ",
     "blog_image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "author_image": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "read_time": 9,
+    "tags": ["programming", "Networking"],
     "published_date": "April, 1986 (37 years ago)"
   },
   {
     "id": "6425d7f484f0507b7efb3923",
     "author_name": "Kent Beck",
-    "blog_title": "Refactoring",
+    "blog_title": "Refactoring : How the tech elites lost touch with reality",
     "blog_image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "author_image": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "read_time": 8,
+    "tags": [ "algorithms", "Networking"],
     "published_date": "March, 1999 (34 years ago)"
   }
 ]

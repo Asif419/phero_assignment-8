@@ -10,7 +10,7 @@ const Header = () => {
             <a className="navbar-brand fs-2 fw-bolder" href="#">Programming Cafe</a>
           </div>
           <div className='px-md-5'>
-            <div className="collapse navbar-collapse d-md-flex justify-content-md-end gap-3" id="navbarNav">
+            <div className="d-md-flex justify-content-md-end gap-3" id="navbarNav">
               <div>
                 < img src='./shahariar.jpeg' className="card-img-top rounded-circle" alt='asif'
                   style={{ height: "50px", width: "50px" }} />
